@@ -1,0 +1,15 @@
+{
+  "devDependencies": {
+    "@appium/execute-driver-plugin": "3.0.17",
+    "@appium/images-plugin": "2.1.6",
+    "@appium/relaxed-caps-plugin": "1.0.5",
+    "appium-device-farm": "8.3.7",
+    "appium-espresso-driver": "2.26.10",
+    "appium-gestures-plugin": "3.0.0",
+    "appium-reporter-plugin": "1.1.0-beta.4",
+    "appium-uiautomator2-driver": "2.31.2",
+    "appium-wait-plugin": "2.0.3",
+    "appium-xcuitest-driver": "5.7.0",
+    "images": "3.2.4"
+  }
+}
